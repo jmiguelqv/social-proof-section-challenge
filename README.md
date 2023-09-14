@@ -9,14 +9,12 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
     -   [Screenshot](#screenshot)
     -   [Links](#links)
 -   [My process](#my-process)
+
     -   [Built with](#built-with)
     -   [What I learned](#what-i-learned)
     -   [Continued development](#continued-development)
-    -   [Useful resources](#useful-resources)
--   [Author](#author)
--   [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+-   [Author](#author)
 
 ## Overview
 
@@ -32,8 +30,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Add solution URL here](https://github.com/jmiguelqv/social-proof-section-challenge)
+-   Live Site URL: [Add live site URL here](https://jmiguelqv.github.io/social-proof-section-challenge/)
 
 ## My process
 
